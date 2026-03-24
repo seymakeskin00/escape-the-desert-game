@@ -21,5 +21,30 @@ Kum fırtınasında kaybolan bir gezgin olarak, elindeki **Su** ve **Enerji** se
 2. `src/res` klasöründe gerekli görsellerin (`col_arkaplan.jpg`, `parsonem.jpg`) olduğundan emin olun.
 3. `ColKesfiOyunu.java` dosyasını favori IDE'nizde (Eclipse, IntelliJ vb.) çalıştırın.
 
+
+<h2 align="center">Oyun Ekran Görüntüleri</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/images/giris.jpeg" alt="Ana Menü" width="350"><br>
+      <b>Ana Menü</b>
+    </td>
+    <td align="center">
+      <img src="assets/images/karar.jpeg" alt="Oyun Başlangıcı" width="350"><br>
+      <b>Oyun Başlangıcı</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/images/karar2.jpeg" alt="Karar Ekranı" width="350"><br>
+      <b>Karar Ekranı</b>
+    </td>
+    <td align="center">
+      <img src="assets/images/son.jpeg" alt="Final Ekranı" width="350"><br>
+      <b>Final Ekranı</b>
+    </td>
+  </tr>
+</table>
 ---
 *Bu proje bir eğitim ödevi kapsamında geliştirilmiştir.*
